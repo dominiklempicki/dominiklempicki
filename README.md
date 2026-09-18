@@ -29,5 +29,5 @@ Interesuję się przede wszystkim **algorytmiką, tworzeniem oprogramowania oraz
 
 ### 🔗 Linki
 
-* 🌐 [Portfolio](https://wedkarstwozkapitanem.github.io/)
-* 💻 [LeetCode](https://leetcode.com/)
+* 🌐 [Portfolio](https://dominiklempicki.github.io)
+* 💻 [LeetCode](https://leetcode.com/u/dominik_kapitan)
