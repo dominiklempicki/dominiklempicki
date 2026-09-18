@@ -1,10 +1,10 @@
 # Cześć! 👋
 
-Nazywam się **Dominik Łempicki** i jestem studentem informatyki.
+Nazywam się **Dominik Łempicki (kapitan)** i jestem studentem informatyki.
 
 Interesuję się przede wszystkim **algorytmiką, tworzeniem oprogramowania oraz uczeniem maszynowym**. Lubię rozwiązywać problemy algorytmiczne i regularnie rozwijam swoje umiejętności programistyczne.
 
-### 🛠️ Technologie
+### 🛠️ Technologie:
 
 * **C++**
 * **Python**
@@ -14,7 +14,7 @@ Interesuję się przede wszystkim **algorytmiką, tworzeniem oprogramowania oraz
 * Linux
 * Docker
 
-### 🏆 Osiągnięcia
+### 🏆 Niektóre osiągnięcia:
 
 * 🥈 Srebrny medal — **Mistrz Programowania**
 * 🏆 Finalista — **Gigathon**
@@ -31,3 +31,4 @@ Interesuję się przede wszystkim **algorytmiką, tworzeniem oprogramowania oraz
 
 * 🌐 [Portfolio](https://dominiklempicki.github.io)
 * 💻 [LeetCode](https://leetcode.com/u/dominik_kapitan)
+* 📧 [Facebook](https://www.facebook.com/Dominiklempickikapitan)
