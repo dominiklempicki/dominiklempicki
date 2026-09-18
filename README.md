@@ -1,16 +1,33 @@
-# Cześć tu kapitan wita w repozytorium kodu 🙋🏻
-### https://dominiklempicki.github.io/
-<!--
-**wedkarstwozkapitanem/wedkarstwozkapitanem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cześć! 👋
 
-Here are some ideas to get you started:
+Nazywam się **Dominik Łempicki** i jestem studentem informatyki.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesuję się przede wszystkim **algorytmiką, tworzeniem oprogramowania oraz uczeniem maszynowym**. Lubię rozwiązywać problemy algorytmiczne i regularnie rozwijam swoje umiejętności programistyczne.
+
+### 🛠️ Technologie
+
+* **C++**
+* **Python**
+* **Java**
+* **Rust** 
+* Git / GitHub
+* Linux
+* Docker
+
+### 🏆 Osiągnięcia
+
+* 🥈 Srebrny medal — **Mistrz Programowania**
+* 🏆 Finalista — **Gigathon**
+* 🤖 Awans do etapu warszawskiego **Olimpiady Sztucznej Inteligencji**
+
+### 📚 Obecnie
+
+* rozwijam umiejętności w **Javie**
+* rozwiązuję zadania algorytmiczne na **LeetCode**
+* rozwijam wiedzę z zakresu **baz danych i inżynierii oprogramowania**
+* pracuję nad własnymi projektami
+
+### 🔗 Linki
+
+* 🌐 [Portfolio](https://wedkarstwozkapitanem.github.io/)
+* 💻 [LeetCode](https://leetcode.com/)
