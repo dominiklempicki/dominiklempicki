@@ -9,7 +9,11 @@ Interesuję się przede wszystkim **algorytmiką, tworzeniem oprogramowania oraz
 * **C++**
 * **Python**
 * **Java**
-* **Rust** 
+* **Html**
+* **Css**
+* **JavaScript**
+* **php**
+* **Rust**
 * Git / GitHub
 * Linux
 * Docker
