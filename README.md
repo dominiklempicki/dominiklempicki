@@ -4,7 +4,7 @@ Nazywam się **Dominik Łempicki (kapitan)** i jestem studentem informatyki.
 
 Interesuję się przede wszystkim **algorytmiką, tworzeniem oprogramowania oraz uczeniem maszynowym**. Lubię rozwiązywać problemy algorytmiczne i regularnie rozwijam swoje umiejętności programistyczne.
 
-### 🛠️ Technologie:
+### 🛠️ Tech stack:
 
 * **C++**
 * **Python**
@@ -17,8 +17,8 @@ Interesuję się przede wszystkim **algorytmiką, tworzeniem oprogramowania oraz
 ### 🏆 Niektóre osiągnięcia:
 
 * 🥈 Srebrny medal — **Mistrz Programowania**
-* 🏆 Finalista — **Gigathon**
-* 🤖 Awans do etapu warszawskiego **Olimpiady Sztucznej Inteligencji**
+* 🏆 Finalista — **Gigathon** (Politechnika Warszawska)
+* 🤖 Awans do etapu warszawskiego **Olimpiady Sztucznej Inteligencji** (Uniwersytet Warszawski)
 
 ### 📚 Obecnie
 
@@ -26,6 +26,7 @@ Interesuję się przede wszystkim **algorytmiką, tworzeniem oprogramowania oraz
 * rozwiązuję zadania algorytmiczne na **LeetCode**
 * rozwijam wiedzę z zakresu **baz danych i inżynierii oprogramowania**
 * pracuję nad własnymi projektami
+
 
 ### 🔗 Linki
 
